@@ -35,7 +35,10 @@ execute command:
 1. User events	
 2. User sessions	
 3. Videos
+![image](https://user-images.githubusercontent.com/81441938/226692392-fc153f2e-a6f4-4412-874f-0c42d6ef44f2.png)
 
-- 
+- You can upload new video also there:
+ ![image](https://user-images.githubusercontent.com/81441938/226692651-4d59c001-ac2f-4251-9f66-286fee878bc6.png)
+- [a relative link](https://github.com/SahilKhan101/Real-Time-Video-Analysis/blob/main/player/views.py)
 
 
